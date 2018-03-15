@@ -3915,3 +3915,7 @@
 	transform: translateY(-50%);
 	display: block;
 }
+
+a.icon-link {
+	border-bottom: none;
+}
