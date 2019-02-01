@@ -4,7 +4,7 @@ title: Information for Applicants
 description: To best benefit from the program, participants are expected to have some experience with Python
              programming and with analysis of geospatial data
              (e.g. remote sensing analysis, vector mapping, environmental modeling, etc.).
-image: geohackweek_01.png
+image: ohw18-hacking2.JPG
 ---
 To best benefit from the program, participants are expected to have some experience with Python
 programming and with analysis of geospatial data
