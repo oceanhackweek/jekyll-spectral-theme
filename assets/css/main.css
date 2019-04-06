@@ -3102,7 +3102,7 @@
 					background-color: rgba(0, 0, 0, 0.1);
 				}
 
-			@media screen and (max-width: 736px) {
+			@media screen and (max-width: 800px) {
 
 				.wrapper.style5 .features li {
 					border-top-color: #dfdfdf;
@@ -3118,7 +3118,7 @@
 
 		}
 
-		@media screen and (max-width: 736px) {
+		@media screen and (max-width: 800px) {
 
 			.wrapper {
 				padding: 3em 2em 1em 2em ;
