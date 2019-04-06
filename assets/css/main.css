@@ -3882,7 +3882,7 @@
 }
 
 .team-card figcaption {
-	padding: 5% 10% 15%;
+	padding: 5% 5% 10%;
 }
 
 .team-card h3 {
@@ -3918,7 +3918,7 @@
 
 /* Some left and right padding inside the container */
 .team-container {
-	padding: 0 12px;
+	padding: 0 10px;
 }
 
 /* Clear floats */
