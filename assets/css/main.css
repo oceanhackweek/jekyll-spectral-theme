@@ -3871,7 +3871,7 @@
 }
 
 .team-card .profile-image {
-	padding: 15% 10% 0;
+	padding: 12% 10% 0;
 }
 
 .team-card .profile-image img {
@@ -3882,7 +3882,7 @@
 }
 
 .team-card figcaption {
-	padding: 5% 5% 10%;
+	padding: 5% 5% 5%;
 }
 
 .team-card h3 {
@@ -3918,7 +3918,7 @@
 
 /* Some left and right padding inside the container */
 .team-container {
-	padding: 0 10px;
+	padding: 0 8px;
 }
 
 /* Clear floats */
