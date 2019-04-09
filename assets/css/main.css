@@ -3962,10 +3962,10 @@
 .sponsors-logo {
 	display: inline-block;
     max-width: 100%;
-	min-width: 269px;
-    width: 30%;
+	min-width: 225px;
+    width: 25%;
 	height: 200px;
-	margin: 10px;
+	margin: 8px;
 }
 
 .sponsors-logo > img {
